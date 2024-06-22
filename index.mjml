@@ -1,0 +1,9 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @font-face{ font-family: "Open sans"; src: url(/assets/opensans.ttf)
+      format(ttf)} @font-face{ font-family: "Open sans"; }
+    </mj-style>
+  </mj-head>
+  <mj-body> </mj-body>
+</mjml>
