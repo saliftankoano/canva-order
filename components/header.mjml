@@ -1,5 +1,5 @@
 <mj-section padding-bottom="0">
   <mj-column width="100%" padding="0">
-    <mj-image src="http://127.0.0.1:5500/assets/mail.jpg" alt="mail" />
+    <mj-image src="./assets/mail.jpg" alt="mail" />
   </mj-column>
 </mj-section>

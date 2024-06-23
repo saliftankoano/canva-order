@@ -15,11 +15,7 @@
     <mj-include path="./components/buttons.mjml" />
     <mj-section>
       <mj-column width="40%">
-        <mj-image
-          padding="0"
-          src="http://127.0.0.1:5500/assets/banana.jpg"
-          alt="bananas"
-        />
+        <mj-image padding="0" src="./assets/banana.jpg" alt="bananas" />
       </mj-column>
       <mj-column width="60%">
         <mj-text
@@ -43,11 +39,7 @@
     </mj-section>
     <mj-section border-top="1px solid #eeeeef">
       <mj-column width="40%">
-        <mj-image
-          width="96px"
-          src="http://127.0.0.1:5500/assets/logo.png"
-          alt="canva"
-        />
+        <mj-image width="96px" src="./assets/logo.png" alt="canva" />
       </mj-column>
       <mj-column width="60%">
         <mj-text

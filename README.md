@@ -1,2 +1,3 @@
 ## DISCLAIMER !!!
-  All assets in this email are a property of Canva.
+
+All assets and content used to build this are a property of CANVA. I do not own any rights to the materials used for learning purposes.
