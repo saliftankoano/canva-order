@@ -1,0 +1,120 @@
+<mj-raw>
+  <!--Order Details-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text
+      font-family="Opensans bold"
+      font-weight="600"
+      font-size="20px"
+      line-height="26px"
+    >
+      Details
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!--Order Table Head-->
+</mj-raw>
+<mj-section border-bottom="1px solid #eeeeef" padding="0">
+  <mj-raw>
+    <!--Order Title-->
+  </mj-raw>
+
+  <mj-column width="80%" padding="0">
+    <mj-text
+      padding-left="25px"
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#6e7174"
+    >
+      ITEM
+    </mj-text>
+  </mj-column>
+  <mj-column width="20%" padding="0">
+    <mj-text
+      padding-left="0"
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#6e7174"
+    >
+      AMOUNT
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!--Order Print Items-->
+</mj-raw>
+<mj-section border-bottom="1px solid #eeeeef">
+  <mj-column width="80%" padding="0">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#0e1318"
+      >Print items</mj-text
+    >
+  </mj-column>
+  <mj-column width="20%" padding-right="0">
+    <mj-text
+      padding-left="0"
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#0e1318"
+      >$16.00</mj-text
+    >
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!--Shipping Cost-->
+</mj-raw>
+<mj-section border-bottom="1px solid #eeeeef">
+  <mj-column width="80%" padding="0">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#0e1318"
+      >Shipping
+    </mj-text>
+  </mj-column>
+  <mj-column width="20%" padding-right="0">
+    <mj-text
+      padding-left="0"
+      font-family="Opensans bold"
+      font-size="12px"
+      line-height="22px"
+      color="#0e1318"
+      >$8.00</mj-text
+    >
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!--Charged-->
+</mj-raw>
+<mj-section>
+  <mj-column width="80%" padding="0">
+    <mj-text
+      font-family="Opensans bold"
+      font-weight="500"
+      font-size="20px"
+      line-height="26px"
+      color="black"
+      >Charged:</mj-text
+    >
+  </mj-column>
+  <mj-column width="20%" padding-right="0">
+    <mj-text
+      font-family="Opensans bold"
+      padding-left="0"
+      font-weight="500"
+      font-size="14px"
+      line-height="22.4px"
+      color="black"
+      >$24.00</mj-text
+    >
+  </mj-column>
+</mj-section>

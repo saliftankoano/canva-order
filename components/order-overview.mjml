@@ -1,0 +1,96 @@
+<mj-raw>
+  <!-- Order Overview Section -->
+</mj-raw>
+<mj-section>
+  <mj-raw>
+    <!-- Invoice -->
+  </mj-raw>
+  <mj-column width="50%">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="14px"
+      line-height="22.4px"
+      color="#6e7174"
+    >
+      INVOICE
+    </mj-text>
+    <mj-text
+      padding-top="0"
+      font-family="Opensans"
+      font-size="14px"
+      line-height="22.4px"
+      color="#0e1318"
+    >
+      04112-09108295
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!-- DATE OF ISSUE -->
+  </mj-raw>
+  <mj-column width="50%">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="14px"
+      line-height="22.4px"
+      color="#6e7174"
+    >
+      DATE OF ISSUE
+    </mj-text>
+    <mj-text
+      padding-top="0"
+      font-family="Opensans"
+      font-size="14px"
+      line-height="22.4px"
+      color="#0e1318"
+      >Apr 5, 2024
+    </mj-text>
+  </mj-column>
+
+  <mj-raw>
+    <!-- LINE 2 OVERVIEW -->
+  </mj-raw>
+
+  <mj-raw>
+    <!-- BRAND ID -->
+  </mj-raw>
+  <mj-column width="50%">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="14px"
+      line-height="22.4px"
+      color="#6e7174"
+    >
+      BRAND ID
+    </mj-text>
+    <mj-text
+      padding-top="0"
+      font-family="Opensans"
+      font-size="14px"
+      line-height="22.4px"
+      color="#0e1318"
+    >
+      Michael's team
+    </mj-text>
+  </mj-column>
+  <mj-raw>
+    <!-- BILLED TO -->
+  </mj-raw>
+  <mj-column width="50%">
+    <mj-text
+      font-family="Opensans bold"
+      font-size="14px"
+      line-height="22.4px"
+      color="#6e7174"
+    >
+      BILLED TO
+    </mj-text>
+    <mj-text
+      padding-top="0"
+      font-family="Opensans"
+      font-size="14px"
+      line-height="22.4px"
+      color="#0e1318"
+      >PayPal (michaelb@gmail.com)
+    </mj-text>
+  </mj-column>
+</mj-section>

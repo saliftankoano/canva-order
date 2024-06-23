@@ -1,0 +1,10 @@
+<mj-section>
+  <mj-column width="100%" padding="0">
+    <mj-text padding="0">
+      You’re receiving this email because you have a Canva account. This email
+      is not a marketing or promotional email. That is why this email does not
+      contain an unsubscribe link. You will receive this email even if you have
+      unsubscribed from Canva’s marketing emails.
+    </mj-text>
+  </mj-column>
+</mj-section>

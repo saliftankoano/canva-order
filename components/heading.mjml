@@ -1,0 +1,24 @@
+<mj-raw>
+  <!-- Heading Text -->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text
+      font-family="Opensans bold"
+      font-weight="600"
+      font-size="24px"
+      line-height="31.2px"
+      color="#0e1318"
+    >
+      Your invoice
+    </mj-text>
+    <mj-text
+      font-family="Opensans"
+      font-size="14px"
+      line-height="22.4px"
+      color="#565A5D"
+    >
+      Thank you for your purchase! Your invoice details are below.
+    </mj-text>
+  </mj-column>
+</mj-section>

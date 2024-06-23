@@ -1,9 +1,84 @@
 <mjml>
   <mj-head>
     <mj-style>
-      @font-face{ font-family: "Open sans"; src: url(/assets/opensans.ttf)
-      format(ttf)} @font-face{ font-family: "Open sans"; }
+      @font-face{ font-family: "Opensans"; src: url(/assets/opensans.ttf)
+      format(ttf)} @font-face{ font-family: "Opensans bold"; src:
+      url(/assets/opensans-bold.ttf) format(ttf)} @font-face{ font-family:
+      "Opensans semibold"; src: url(/assets/opensans-semibold.ttf) format(ttf) }
     </mj-style>
   </mj-head>
-  <mj-body> </mj-body>
+  <mj-body>
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/heading.mjml" />
+    <mj-include path="./components/order-overview.mjml" />
+    <mj-include path="./components/order-table.mjml" />
+    <mj-include path="./components/buttons.mjml" />
+    <mj-section>
+      <mj-column width="40%">
+        <mj-image
+          padding="0"
+          src="http://127.0.0.1:5500/assets/banana.jpg"
+          alt="bananas"
+        />
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text
+          font-family="Opensans bold"
+          font-weight="600"
+          font-size="16px"
+          line-height="25.6px"
+        >
+          Did you know?
+        </mj-text>
+        <mj-text
+          font-family="Opensans bold"
+          font-weight="400"
+          font-size="16px"
+          line-height="22.4px"
+          color="#6e7174"
+        >
+          Bananas are curved because they grow towards the sun.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section border-top="1px solid #eeeeef">
+      <mj-column width="40%">
+        <mj-image
+          width="96px"
+          src="http://127.0.0.1:5500/assets/logo.png"
+          alt="canva"
+        />
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text
+          font-family="Opensans"
+          font-size="14px"
+          line-height="22.4px"
+          color="#56595c"
+        >
+          Made for you with 💜 from Canva
+        </mj-text>
+        <mj-text
+          font-family="Opensans"
+          font-size="14px"
+          line-height="22.4px"
+          color="#56595c"
+        >
+          Canva®, 110 Kippax St, NSW 2010, Australia
+        </mj-text>
+        <mj-text
+          font-family="Opensans"
+          font-size="14px"
+          line-height="22.4px"
+          color="#56595c"
+        >
+          ABN 80 158 929 938 |
+          <a
+            href="https://track.canva.com/CL0/https:%2F%2Fwww.canva.com%2Fpolicies%2Fprivacy-policy%2F/1/0100018eb0050fc5-ad023413-50e2-40dd-b75c-34ade3c036b0-000000/XmU25lWkds6xkubGXhHYgC-XyTEw6B27aJt8OjUKVY8=347"
+            >Privacy Policy</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>
